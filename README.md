@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Abdulrafay-124
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Python, Java, HTML  and CSS as well as JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in CyberSecurity
+- 🌱 I’m currently learning Python and C++
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I come from non tech background. I was introduced to coding only 2 years prior. So, I have spent a lot of time on getting the basics right.
+- ⚡ Fun fact: I come from non-tech background. I was introduced to coding not too long ago. So, I am spending a lot of time on getting the basics right.
 - Even now I would say I am only a beginner
 
 <!---
